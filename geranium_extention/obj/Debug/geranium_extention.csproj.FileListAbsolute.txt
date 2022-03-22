@@ -1,0 +1,14 @@
+C:\Users\nanas\source\repos\geranium\geranium_extention\obj\Debug\geranium_extention.csprojAssemblyReference.cache
+C:\Users\nanas\source\repos\geranium\geranium_extention\obj\Debug\geranium_extention.csproj.CoreCompileInputs.cache
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\geranium_extention.dll.config
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\geranium_extention.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\geranium_extention.pdb
+C:\Users\nanas\source\repos\geranium\geranium_extention\obj\Debug\geranium_extention.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\obj\Debug\geranium_extention.pdb
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nanas\source\repos\geranium\geranium_extention\obj\Debug\geranium_extention.csproj.CopyComplete

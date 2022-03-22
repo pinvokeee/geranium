@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-592H66Q');</script>
+        <!-- End Google Tag Manager -->
+
+    <!-- 広告タグ用の記述ここまで -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="keywords" content="映画,映画館,シネマ,シネコン,ティ・ジョイ,T・ジョイ,TJOY,バルト,ブルク,ミッテ,KINEZO,キネゾー">
+    <title>広島バルト11</title>
+
+            <link href="/img/common/fav/330_favicon.ico?1574124898" type="image/x-icon" rel="icon"/><link href="/img/common/fav/330_favicon.ico?1574124898" type="image/x-icon" rel="shortcut icon"/>    
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Color the status bar on mobile devices -->
+    <meta name="theme-color" content="#d4000f">
+    <meta name="csrf-token" content="5071248fbc4745a8cda2f3543238472a5be12990027f511d29a098fa12164f74975ae017541d297f11a248ff93cd8aa8bbbcfe956fac6f0f9ac0dc183b7e5b10">
+
+    <!-- [css]-->
+    
+	<link rel="stylesheet" href="/css/front/styles/bootstrap/bootstrap.css?1574124898"/>
+	<link rel="stylesheet" href="/css/front/styles/jquery.fancybox.min.css?1574124898"/>
+	<link rel="stylesheet" href="/css/front/styles/main.css?1638252228"/>
+	<link rel="stylesheet" href="/css/front/custom.css?1633368714"/>
+    <!-- [/css]-->
+    <!-- [js]-->
+    
+	<script src="/js/front/scripts/jquery-1.11.3.min.js?1574124899"></script>
+	<script src="/js/front/scripts/slick.min.js?1574124899"></script>
+	<script src="/js/front/scripts/bootstrap.min.js?1574124899"></script>
+	<script src="/js/front/scripts/jquery.swipebox.min.js?1574124899"></script>
+	<script src="/js/front/scripts/jquery.touchSwipe.min.js?1574124899"></script>
+	<script src="/js/front/scripts/jquery.ellipsis.js?1574124899"></script>
+	<script src="/js/front/scripts/jquery.fancybox.min.js?1574124899"></script>
+	<script src="/js/front/scripts/main.js?1603433510"></script>
+	<script src="/js/front/common_app.js?1574124899"></script>
+	<script src="/js/front/common_func.js?1638252228"></script>
+    <script data-ad-client="ca-pub-8837968959400375" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151732297-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-151732297-2');
+    </script>
+    <!-- [/js]-->
+        </head>
+<body id="notification" class="hack-ios ticket-action choose-seat ">
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-592H66Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!--[header]-->
+<!-- Header -->
+<div class="container">
+    <div>
+            <header>
+                        <div class="header-container d-flex justify-content-between align-items-center">
+                <div class="col-5 col-sm-7 col-md-7 pr-0 pl-0 header-item">
+                                            <a href="https://tjoy.jp/hiroshima_wald11">
+                            <img src="/img/common/logo/theaterLogo_hiroshima.png?1574124898" class="img-fluid" alt=""/>                        </a>
+                                    </div>
+
+                <div class="d-flex justify-content-between justify-content-md-end justify-content-end col-6 col-sm-5 col-md-5 pr-0 pl-0 header-item">
+                                            <div class=" ml-md-2 pl-md-1">
+                            <a href="https://tjoy.jp/hiroshima_wald11#schedule-content"
+                               class="                               color-primary btn-schedule">
+                                <i class="i-bg icon icon-schedule"></i>
+                                上映スケジュール                            </a>
+                        </div>
+                        <div class="header-item ml-md-2 pl-md-1">
+                                                            <a href="https://tjoy.jp/hiroshima_wald11/login">
+                                    <i class="i-bg icon bg-login"></i> ログイン                                </a>
+                                                    </div>
+                        <div class="i-bg js-openNav header-item ml-md-2 pl-md-1">
+                            <a href="javascript:void(0)">
+                                <i class="i-bg icon bg-menu"></i>
+                                メニュー                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </header>
+                    <div id="mySidenav" class="sidenav-container">
+            <div class="sidenav--top d-flex justify-content-between align-items-center">
+                <img src="/img/front/images/logo_kinezo_menu_sp.png?1574124898" class="img-fluid h-100" alt=""/>                <a href="javascript:void(0)" class="color-white js-closeNav">
+                    <i class="i-bg bg-close"></i>
+                    閉じる                </a>
+            </div>
+            <div class="sidenav">
+                <ul>
+                                            <li class="bg-red">
+                            <a class="color-white"
+                               href="https://tjoy.jp/hiroshima_wald11/login">
+                                <i class="icon icon-user"></i>ログイン・新規登録                            </a>
+                        </li>
+                                        <li>
+                        <a href="/"><i class="icon icon-map"></i>他の劇場</a>                    </li>
+                    <li class="break-item"></li>
+                    <li id="schedule-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11#schedule-content"
+                           class="">
+                            <i class="icon icon-schedule"></i>上映スケジュール                        </a>
+                    </li>
+                    <li id="cinema-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/theater_cinema">
+                            <i class="icon icon-cinema"></i>作品情報                        </a>
+                    </li>
+                    <li id="access-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/access">
+                            <i class="icon icon-access"></i>交通アクセス                        </a>
+                    </li>
+                    <li id="adticket-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/adticket">
+                            <i class="icon icon-adticket"></i>前売券                        </a>
+                    </li>
+                                        <li id="present-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/present">
+                            <i class="icon icon-present"></i>入場者<br class="d-none d-md-block">プレゼント                        </a>
+                    </li>
+                                        <li id="event-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/events">
+                            <i class="icon icon-event"></i>イベント                        </a>
+                    </li>
+                    <li id="campaign-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/campaign">
+                            <i class="icon icon-campaign"></i>キャンペーン                        </a>
+                    </li>
+                    <li id="theaternews-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/theater_news">
+                            <i class="icon icon-theaternews"></i>劇場からの<br class="d-none d-md-block">お知らせ                        </a>
+                    </li>
+                    <li id="price-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/price">
+                            <i class="icon icon-price"></i>料金案内                        </a>
+                    </li>
+                    <li id="facilities-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/facilities">
+                            <i class="icon icon-facilities"></i>施設案内                        </a>
+                    </li>
+                    <li id="concession-item">
+                        <a href="https://tjoy.jp/hiroshima_wald11/concession">
+                            <i class="icon icon-concession"></i>フード＆<br class="d-none d-md-block">ドリンク                        </a>
+                    </li>
+                    <li>
+                        <a href="https://t-joy.custhelp.com/app/answers/list/st/5/p/26/page/1" target="_blank">
+                            <i class="icon icon-qa"></i>よくあるご質問                        </a>
+                    </li>
+                    <li>
+                        <a href="https://tjoy.jp/hiroshima_wald11/guide">
+                            <i class="icon icon-new-user"></i>初めての方へ                        </a>
+                    </li>
+                    <li>
+                        <a href="https://tjoy.jp/about_company/sitepolicy_foot">
+                            <i class="icon icon-book"></i>ご利用規約                        </a>
+                    </li>
+                    <li>
+                        <a href="https://tjoy.jp/about_company/privacy_policy">
+                            <i class="icon icon-key"></i>プライバシーポリシー                        </a>
+                    </li>
+                    <li>
+                        <a href="https://tjoy.jp/about_company/commercial_info">
+                            <i class="icon icon-note"></i>特定商取引法の表記                        </a>
+                    </li>
+                    <li>
+                        <a href="https://tjoy.co.jp" target="_blank">
+                            <i class="icon icon-calculator"></i>企業情報                        </a>
+                    </li>
+                    <li>
+                        <a href="https://tjoy.co.jp/recruit/requirement" target="_blank">
+                            <i class="icon icon-user-gray"></i>採用情報                        </a>
+                    </li>
+                </ul>
+                <div class="icn-social">
+                    <div class="row  ml-0 mr-0">
+                        <a href="https://twitter.com/wald_11"
+                           target="_blank" class="icn-twitter col-6">
+                            <img src="/img/front/images/icon/icn_twitter.png?1574124898" class="img-fluid" width="26" alt=""/>                        </a>
+                        <a href="https://www.facebook.com/wald11"
+                           target="_blank" class="icn-facebook col-6">
+                            <img src="/img/front/images/icon/icn_facebook.png?1574124898" class="img-fluid" width="26" alt=""/>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+    </div>
+</div>
+<!-- End header -->
+<!--[/header]-->
+
+<!--[content-wrap]-->
+<div class="inner-container">
+            <div class="container js-check-header breadcrumb-container">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a href="https://tjoy.jp/hiroshima_wald11">劇場TOP</a>
+                </li>
+                <li class="breadcrumb-item">
+                                            <a href="https://tjoy.jp/hiroshima_wald11/theater_news">
+                            劇場からのお知らせ                        </a>
+                                    </li>
+                <li class="breadcrumb-item">詳細</li>
+            </ol>
+        </div>
+                <div class="container container-one">
+            <div class="notification-container">
+                <div class="notification-top">
+                                            <span class="badge rounded-0 d-inline-block coupon-noline mr-10" style="border-color: #f66bd4">
+                        ご案内                    </span>
+                                        2022/02/25                </div>
+                <h4 class="notification-title font-weight-bold">
+                    ≪モバイルSuica決済 一時停止のご案内≫                </h4>
+                <div class="notification-content">
+                    <p class="notification-content-intro">
+                                            </p>
+                    <div class="img-container text-center">
+                                            </div>
+                    <p class="notification-content-intro">
+                        <p class="editor">JR東日本によるモバイルSuicaサービスのシステムメンテナンス実施に伴い、</p><p class="editor">KINEZOオンライン予約システムでのモバイルSuica決済を下記の期間にて一時的に停止いたします。</p><p class="editor">&nbsp;</p><p class="editor">■2022年3月12日（土） 午前 1時 ～ 午前 4時<br />■2022年3月16日（水） 午前 1時 ～ 午前 4時</p><p class="editor">■2022年3月24日（木） 午前 1時 ～ 午前 4時</p><p class="editor">※停止時間帯は、多少前後する場合がございます。</p><p class="editor">&nbsp;</p><p class="editor">上記の期間中、クレジットカード・U-NEXTポイント・Amazon Pay、ムビチケ・シネマチケットによる決済は引き続きご利用いただけます。</p><p class="editor">&nbsp;</p><p class="editor">お客様には大変ご迷惑をお掛けいたします。<br />あらかじめご了承くださいますよう、何卒お願い申し上げます。</p><p class="editor">&nbsp;</p>                    </p>
+                </div>
+                                <div class="btn-backto text-center">
+                    <a href="https://tjoy.jp/hiroshima_wald11/theater_news">
+                        <img src="/img/front/images/icon/icon_arrow-left.png" alt="一覧へ戻る" class="arrow">
+                        一覧へ戻る                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- Movie type modal -->
+                <!-- Movie type modal -->
+    </div>
+<!-- The Modal1 -->
+<div class="modal modal-container list-gift-modal" id="myModal1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <!-- Modal Header -->
+            <div class="modal-header text-center">
+                入場者プレゼントの配布に関して            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <p class="mb-2">お一人でも多くのお客様にお渡しできるよう、下記の通り配布させていただきます。<br>予めご了承の上、チケットのご購入・ご入場いただきますようお願いいたします。</p>
+                <p>
+                    ●入場者プレゼントは、数に限りがございます。無くなり次第終了となります。<br>
+                    ●入場者プレゼントの残数より、次回上映回のお客様の数が上回った場合、入場者プレゼントは配布致しません。ご了承ください。<br>
+                    ●同一上映回でお渡しする入場者プレゼントはお一人様お一つです。お一人様が複数枚の座席指定券をお持ちいただいた場合でも、入場者プレゼントはお一人様お一つのお渡しとなります。<br>
+                    ●全ての入場者プレゼントは、チケット購入時ではなく、ご鑑賞の際のシアター入場時にお配りいたします。<br>
+                    ●ご入場前・ご退場後の入場者プレゼントのお渡しはいたしません。<br>
+                    ●全ての入場者プレゼントは、当劇場にご来場し、ご鑑賞されるお客様が対象となり、ご来場されないお客様に入場者プレゼントのお渡しは出来ません。<br>
+                    ●傷や汚れがあるものがございましても、返品・交換は一切お受けできません。<br>
+                    ●配布期間より前に該当作品の上映が終了する可能性がございます。<br>
+                    ●入場者プレゼントの配布に関して、作品ごとに配布に関する特別な指定がある場合はその意向を順守いたします。<br>
+                    ●HPに掲載される情報は更新が遅れる場合がございます。予めご了承ください。<br>
+                    ●入場者プレゼントの詳細や最新の在庫状況は劇場までお問い合わせください。</p>
+                </p>
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer modal01-footer">
+                <button type="button" class="btn" data-dismiss="modal">閉じる</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--[/content-wrap]-->
+
+<!--[footer]-->
+<!-- Footer -->
+<footer class="page-footer container-fluid">
+    <div class="d-xs-block d-sm-block d-md-none">
+        <div class="icn-social d-flex">
+                            <div class="flex-1">
+                    <a href="https://twitter.com/wald_11"
+                       target="_blank" class="icn-twitter">
+                        <img src="/img/front/images/icon/icn_twitter.png?1574124898" class="img-fluid" width="26" alt=""/>                    </a>
+                </div>
+                <div class="flex-1">
+                    <a href="https://www.facebook.com/wald11"
+                       target="_blank" class="icn-facebook">
+                        <img src="/img/front/images/icon/icn_facebook.png?1574124898" class="img-fluid" width="26" alt=""/>                    </a>
+                </div>
+                    </div>
+    </div>
+
+    <div class="footer-bottom text-center">
+        <div class="justify-content-md-center">
+            <a href="https://tjoy.jp/about_company/sitepolicy_foot" class="col-xs-12 col-sm-12 col-12 col-md-auto">ご利用規約</a>
+            <a href="https://t-joy.custhelp.com/app/answers/list/st/5/p/26/page/1" class="col-xs-12 col-sm-12 col-12 col-md-auto" target="_blank">よくあるご質問</a>
+            <a href="https://tjoy.jp/about_company/privacy_policy" class="col-xs-12 col-sm-12 col-12 col-md-auto">プライバシーポリシー</a>
+            <a href="https://tjoy.jp/about_company/commercial_info" class="col-xs-12 col-sm-12 col-12 col-md-auto">特定商取引法の表記</a>
+            <a href="https://tjoy.co.jp" class="col-xs-12 col-sm-12 col-12 col-md-auto" target="_blank">企業情報</a>
+            <a href="https://tjoy.co.jp/recruit/requirement" class="col-xs-12 col-sm-12 col-12 col-md-auto" target="_blank">採用情報</a>
+        </div>
+    </div>
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center">COPYRIGHT @T-JOY ALL RIGHTS RESERVED.
+        <a href="javascript:void(0)" class="js-scrollToTop">
+            <img src="/img/front/images/icon/icn_arrow-top_01.png?1574816459" class="icn-arrow-top" width="30" alt=""/>        </a>
+    </div>
+    <!-- Copyright -->
+    <!-- End footer links -->
+</footer>
+<!-- End footer -->
+<!--[/footer]-->
+</body>
+</html>

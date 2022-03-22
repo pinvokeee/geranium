@@ -1,0 +1,17 @@
+C:\Users\nanas\source\repos\geranium\ext_controlbox\obj\Debug\ext_controlbox.csprojAssemblyReference.cache
+C:\Users\nanas\source\repos\geranium\ext_controlbox\obj\Debug\ext_controlbox.csproj.CoreCompileInputs.cache
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\ext_controlbox.dll.config
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\ext_controlbox.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\ext_controlbox.pdb
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\geranium_extention.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\geranium_extention.pdb
+C:\Users\nanas\source\repos\geranium\ext_controlbox\bin\Debug\geranium_extention.dll.config
+C:\Users\nanas\source\repos\geranium\ext_controlbox\obj\Debug\ext_controlbox.csproj.CopyComplete
+C:\Users\nanas\source\repos\geranium\ext_controlbox\obj\Debug\ext_controlbox.dll
+C:\Users\nanas\source\repos\geranium\ext_controlbox\obj\Debug\ext_controlbox.pdb

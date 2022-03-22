@@ -1,0 +1,17 @@
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\obj\Debug\hide_contextmenu.csprojAssemblyReference.cache
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\obj\Debug\hide_contextmenu.csproj.CoreCompileInputs.cache
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\hide_contextmenu.dll.config
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\hide_contextmenu.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\hide_contextmenu.pdb
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\geranium_extention.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\geranium_extention.pdb
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\geranium_extention.dll.config
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\obj\Debug\hide_contextmenu.csproj.CopyComplete
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\obj\Debug\hide_contextmenu.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\obj\Debug\hide_contextmenu.pdb
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\nanas\source\repos\geranium\hide_contextmenu\bin\Debug\Microsoft.Web.WebView2.Wpf.dll

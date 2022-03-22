@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geranium", "geranium\geranium.csproj", "{0F0A3E50-5D14-412D-8ED9-BCB8A8F63B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geranium_extention", "geranium_extention\geranium_extention.csproj", "{23527ADC-BAA7-4DEA-94FC-71E61EA3005C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ext_http", "ext_http\ext_http.csproj", "{935963FC-F4CD-4DFE-B1C2-5F15ADA4D142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ext_controlbox", "ext_controlbox\ext_controlbox.csproj", "{BC40A5CE-8263-42CD-A2C3-9D88FE8C0235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0A3E50-5D14-412D-8ED9-BCB8A8F63B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0A3E50-5D14-412D-8ED9-BCB8A8F63B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0A3E50-5D14-412D-8ED9-BCB8A8F63B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0A3E50-5D14-412D-8ED9-BCB8A8F63B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23527ADC-BAA7-4DEA-94FC-71E61EA3005C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23527ADC-BAA7-4DEA-94FC-71E61EA3005C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23527ADC-BAA7-4DEA-94FC-71E61EA3005C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23527ADC-BAA7-4DEA-94FC-71E61EA3005C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935963FC-F4CD-4DFE-B1C2-5F15ADA4D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935963FC-F4CD-4DFE-B1C2-5F15ADA4D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935963FC-F4CD-4DFE-B1C2-5F15ADA4D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935963FC-F4CD-4DFE-B1C2-5F15ADA4D142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC40A5CE-8263-42CD-A2C3-9D88FE8C0235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC40A5CE-8263-42CD-A2C3-9D88FE8C0235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC40A5CE-8263-42CD-A2C3-9D88FE8C0235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC40A5CE-8263-42CD-A2C3-9D88FE8C0235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B8737D-02F8-4C94-A2EB-5D8663EE72FE}
+	EndGlobalSection
+EndGlobal
